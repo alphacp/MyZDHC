@@ -1,0 +1,8 @@
+</div>
+<footer class="footer">
+  <!-- Footer content -->
+  <div class="container" style="color: #8C8C8C;">
+    Copyright © Telappliant 2014. All rights reserved.
+  </div>
+
+</footer>

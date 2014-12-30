@@ -1,0 +1,20 @@
+{{breadcrumbs}}
+<div class="container">
+<article>
+  <header class="knowledge-page-header">
+    <h1 class="h1text">{{visibility}} {{title}}</h1>
+    <p style="color: #bbbbbb;">Last updated - {{updated_at}}</p>
+  </header>
+  <div class="article-column">
+    <div class="article-body markdown">
+      {{body}}
+    </div>
+    <div class="article-attachments">
+      {{attachments}}
+    </div>
+    <footer class="article-footer clearfix">
+      {{vote}}
+    </footer>
+  </div>
+</article>
+</div>

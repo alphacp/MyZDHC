@@ -1,0 +1,73 @@
+<div class="container">
+<div class="jumbotron home-title"><h2 style="font-weight: 200;font-size: 2em;line-height: 1em;color: #0b5868"><br><br>Welcome to the Telappliant Customer Help Center</h2>For information relating to the use of products and services provided by Telappliant, VoIPtalk and Unitel One Source please select an icon below.<br><br></div>
+
+<div class="row home-accelerator">
+
+  <div class="col-md-2 col-sm-4 text-center">
+    <a href="/hc/en-us/categories/200214643-FAQ"> 
+      <span class="circle-text"><i class="fa fa-lightbulb-o fa-5x"></i></span>
+      <h2 class="circleh2">FAQ  
+      </h2>
+    </a>
+  </div><!-- /.col-lg-3 -->
+  
+  <div class="col-md-2 col-sm-4 text-center">
+    <a href="/hc/en-us/categories/200218756-How-To-Solutions">
+      <span class="circle-text"><i class="fa fa-file-text-o fa-5x"></i></span>
+      <h2 class="circleh2">How To 
+      </h2>
+    </a>
+  </div><!-- /.col-lg-3 -->
+
+  <div class="col-md-2 col-sm-4 text-center">
+    <!--<a href="/hc/en-us/categories/200218766-Articles">-->
+      <span class="circle-text"><i class="fa fa-pencil-square-o fa-5x"></i></span>
+      <h2  class="circleh2">Articles
+      </h2>
+    <!--</a>-->
+  </div><!-- /.col-lg-3 -->
+
+  <div class="col-md-2 col-sm-4 text-center">
+    <!--<a href="/hc/en-us/categories/200214653-Manuals"> -->
+      <span class="circle-text"><i class="fa fa-book fa-5x"></i></span>
+      <h2 class="circleh2">Manuals
+      </h2>
+    <!--</a>-->
+  </div><!-- /.col-lg-3 -->
+
+  <div class="col-md-2 col-sm-4 text-center">
+    <!--<a href="/hc/en-us/categories/200218776-Downloads"> -->
+      <span class="circle-text"><i class="fa fa-folder-open fa-5x"></i></span>
+      <h2 class="circleh2">Downloads
+      </h2>
+    <!--</a>-->
+  </div><!-- /.col-lg-3 -->
+
+  <div class="col-md-2 col-sm-4 text-center enduser" style="display:none;">
+    <a href="/hc/requests/all"> 
+      <span class="circle-text2"><i class="fa fa-ticket fa-5x"></i></span>
+      <h2 class="circleh2">My Tickets
+      </h2>
+    </a>
+  </div><!-- /.col-lg-3 -->
+
+  <div class="col-md-2 col-sm-4 text-center manager" style="display:none;">
+    <a href="/hc/en-us/categories/200214663-Internal"> 
+      <span class="circle-text2"><i class="fa fa-cogs fa-5x"></i></span>
+      <h2 class="circleh2">Internal
+      </h2>
+    </a>
+  </div><!-- /.col-lg-3 -->
+
+</div>
+<br><br>
+<div class="container">
+<p style="text-align: center; padding: 10px; border: 1px dashed #bbbbbb;"><b>We are currently populating material on to this website. Please bear with us and check back for new updates.</b></p>
+</div>
+<br>
+</div>
+<div style="background-color: #eeeeee;">
+  <div class="container">
+    {{promoted_articles}}
+  </div>
+</div>

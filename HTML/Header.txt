@@ -1,0 +1,17 @@
+<div id="wrap">
+<header class="header">
+  <div class="container">
+    <div class="row">    
+      <div class="logo col-sm-4">{{logo}}</div>
+      <nav class="user-nav col-sm-8">
+        {{user_info}}
+        <form accept-charset="UTF-8" action="/hc/en-us/search" class="search-small" method="get" role="search">
+          <div style="margin:0;padding:0;display:inline">
+            <input name="utf8" type="hidden" value="&#x2713;" />
+          </div>
+          <input id="query" name="query" placeholder="Search" type="search" />
+        </form>
+    </nav>
+  </div>
+  </div>
+</header>

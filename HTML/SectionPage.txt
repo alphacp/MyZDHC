@@ -1,0 +1,10 @@
+{{breadcrumbs}}
+<div class="container">
+
+<header class="knowledge-page-header">
+  <h1 class="h1text">{{visibility}} {{title}}</h1>
+  <p>{{description}}</p>
+</header>
+
+{{article_list}}
+</div>

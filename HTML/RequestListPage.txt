@@ -1,0 +1,19 @@
+{{breadcrumbs}}
+
+<div class="container">
+<nav class="my-activities-sub-nav nav-spaced">
+  {{request_navigation}}{{submit_request}}
+</nav>
+
+<div class="request-table-toolbar">
+  {{request_filter}}
+  <div class="request-table-filters">
+    {{organization_selector}}
+    {{status_selector}}
+  </div>
+</div>
+
+<div class="my-activities-table">
+  {{request_table}}
+</div>
+</div>
